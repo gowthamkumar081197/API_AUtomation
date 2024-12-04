@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="D:/AUTOMATION/INTELLIJ/API_AUTOMATION/API_AUtomation">
+        <classes>
+            <class name="GowthamAutomation.Samplecheck.APO003_TestNg_TC1">
+                 <methods>
+                     <include name="Testcase_getMethod"/>
+                </methods>
+            </class>
+            <class name="GowthamAutomation.Samplecheck.API004_BDDStyle">
+            </class>
+        </classes>
+    </test>
+</suite>
